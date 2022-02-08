@@ -1,8 +1,8 @@
 # willberries - учебный проект.
 В проекте использовались:
--НТМL
--CSS
--JavaScript
+- НТМL
+- CSS
+- JavaScript
 Библиотеки:
--Bootstrap v5.
--Swiper Slider JS
+- Bootstrap v5.
+- Swiper Slider JS
