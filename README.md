@@ -1,5 +1,5 @@
 # willberries - training project.
-## Project completed - Demchenko Ruslan
+## Worked on a project - Demchenko Ruslan
 ## The project used::
 - НТМL
 - CSS
