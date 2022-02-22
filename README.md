@@ -1,10 +1,11 @@
-# willberries - учебный проект.
-## В проекте использовались:
+# willberries - training project.
+## Project completed - Demchenko Ruslan
+## The project used::
 - НТМL
 - CSS
 - JavaScript
 
-### Библиотеки:
+### Libraries:
 - Bootstrap v5.
 - Swiper Slider JS
 ### View 
